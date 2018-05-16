@@ -1,3 +1,4 @@
+Crear en nuestro gestor de base de datos una base llamada auditoria
 Para comenzar con la aplicación nos dirigimos hacia la carpeta llamada base e importaremos el .sql en nuestro mysql 
 que se encuentra en la ruta code\base.
 Una vez importada la base movemos la carpeta auditoria hacia el htdocs de nuestro xammp o servidor.
